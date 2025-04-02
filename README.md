@@ -8,3 +8,4 @@ User-friendly layout for quick analysis
 **Usage:**
 This Excel dashboard serves as a foundation for Power BI integration or standalone analysis.
 Feel free to explore and adapt the model! 
+[Dashboard Model_by Kavya.xlsx](https://github.com/user-attachments/files/19569072/Dashboard.Model_by.Kavya.xlsx)
